@@ -1,4 +1,5 @@
 export interface Birthday {
-  Name: string;
-  Date: Date;
+  _id: string;
+  name: string;
+  date: Date;
 }
